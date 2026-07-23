@@ -1,0 +1,15 @@
+# Frontend dependencies/build files
+frontend/node_modules/
+frontend/dist/
+
+# Backend compiled files
+backend/bin/
+backend/obj/
+
+# Local editor/system files
+.DS_Store
+.vscode/
+*.user
+
+# Local secrets/configuration
+backend/appsettings.Development.json
